@@ -6,11 +6,11 @@ An ASP.NET web app developed, written in C# using Visual Studio. Functionalities
 
 ## Running the project
 
-#### For Database
-Create our own database that working with SQL Server.
+* #### For Database
+    Create our own database that working with SQL Server.
 
-#### For the Language
-Using .Net. 
+* #### For the Language
+    Using .Net Developer Language.
 
 #### Tools for Run the Project
 * Visual Studio.
